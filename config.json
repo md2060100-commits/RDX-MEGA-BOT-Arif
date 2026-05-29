@@ -1,9 +1,9 @@
 {
   "PORT": 5000,
   "LOGIN_METHOD": "appstate",
-  "BOTNAME": "🌟 SARDAR RDX BOT 🌟",
+  "BOTNAME": "🌟 nhat minh 🌟",
   "PREFIX": ".",
-  "ADMINBOT": ["61577647262557"],
+  "ADMINBOT": ["100079095211737"],
   "PREFIX_ENABLED": true,
   "REACT_DELETE_EMOJI": "😡",
   "ADMIN_ONLY_MODE": false,
